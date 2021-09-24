@@ -1,2 +1,13 @@
-# speaking
-A collection of all my presentations and public speaking opportunities. Follow me on Speakerdeck.
+# My Talks
+
+A place to store all my talks, both polished and in-progress. Also, [find me on SpeakerDeck](https://speakerdeck.com/jobtaminiau/).
+
+### [The Power of Making Mistakes](making-mistakes)
+
+### [Product Design and Markerboard Mentality](product-design-and-markerboard-mentality)
+
+### [Cultivating Positive User Experiences](cultivating-positive-user-experiences)
+
+### [Getting Started with GitHub](getting-started-with-github)
+
+![img](making-mistakes/assets/pics/twitter-mds-talk-pic-1.jpg)
